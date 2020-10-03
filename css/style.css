@@ -760,7 +760,7 @@ bootstrap.min.css:5
 text-transform: uppercase;
 }
 #fixed1 {
-  background: url('../img/blur/13.jpg') no-repeat center center fixed;
+  background: url(../img/blur/13.jpg) no-repeat center center fixed;
   display: table;
   height: 60%;
   position: relative;
@@ -784,7 +784,7 @@ text-transform: uppercase;
   width: 100%;
 }
 #fixed3 {
-  background: url(img/blur/1.jpg) no-repeat center center fixed;
+  background: url(../img/blur/1.jpg) no-repeat center center fixed;
   display: table;
   height: 60%;
   position: relative;
@@ -796,7 +796,7 @@ text-transform: uppercase;
   width: 100%;
 }
 #fixed4 {
-  background: url(img/blur/11.jpg) no-repeat center center fixed;
+  background: url(../img/blur/11.jpg) no-repeat center center fixed;
 /*  filter: blur(3px);
 */  display: table;
   height: 60%;
